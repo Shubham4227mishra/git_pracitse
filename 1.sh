@@ -4,5 +4,5 @@ sudo apt install nginx -y
 systemctl enable nginx
 systemctl start nginx
 systemctl status nginx > nginx.log
-echo 
+echo "hello world " 
 
